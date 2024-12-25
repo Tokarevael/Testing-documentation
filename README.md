@@ -6,7 +6,8 @@
 ## Test Suite 
 (https://app.qase.io/project/G9?suite=116)
 
-
-
 ## Added a file with Test cases made in QASE for Registration, Authorization and Product Catalog 
 (https://github.com/Tokarevael/Testing-documentation/blob/main/Test%20cases.pdf)
+
+## Added a file with Bug reports from YouTrack for Registration, Authorization and Product Catalog 
+(https://github.com/Tokarevael/Testing-documentation/blob/main/Bug%20reports.xlsx)
